@@ -10,7 +10,7 @@ These are our findings:
 4. The most crimes happened in June followed by July, February was the least
 5. The most crimes occurred on Friday, the least on Sunday
 
-There is no liner relationship between income level and crimes per-capita in a given neighborhood.
+There is no linear relationship between income level and crimes per-capita in a given neighborhood.
 The following are the results from our linear regression
 P value = 0.00014
 R value = -0.52307
