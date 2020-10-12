@@ -4,9 +4,9 @@ Our hypothesis was  neighborhoods with lower median home income see  statistical
 The data we obtained included over 26,000 data points that include, time and date of crime, specific charge , street Address, neighborhood.
 
 These are our findings:
-1. The most common type of crime is Larceny From Vehicle, the least common is Homicide
+1. The most common type of crime is Larceny From Vehicle, the least common is Homicide.
 2. The neighborhood with the highest median income was Paces (third lowest per-capita crime rate), the neighborhood with the highest crime per-capita was Westend.
-3. The lowest crime rate per-capita was Georgia Tech, the next lowest was Knight Park / Howel Station
+3. The lowest crime rate per-capita was Georgia Tech, the next lowest was Knight Park / Howel Station.
 4. The most crimes happened in June followed by July, February was the least
 5. The most crimes occurred on Friday, the least on Sunday
 
