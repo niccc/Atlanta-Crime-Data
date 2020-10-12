@@ -8,7 +8,7 @@ These are our findings:
 2. The neighborhood with the highest median income was Paces (third lowest per-capita crime rate), the neighborhood with the highest crime per-capita was Westend.
 3. The lowest crime rate per-capita was Georgia Tech, the next lowest was Knight Park / Howel Station
 4. The most crimes happened in June followed by July, February was the least
-5. he most crimes occurred on Friday, the least on Sunday
+5. The most crimes occurred on Friday, the least on Sunday
 
 There is no liner relationship between income level and crimes per-capita in a given neighborhood.
 The following are the results from our linear regression
