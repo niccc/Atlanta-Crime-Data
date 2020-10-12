@@ -1,9 +1,10 @@
-# Atlanta_crimedata
+### Atlanta_crimedata
+
 We have explored the trends in crime data for the city of Atlanta. We were interested to see the relationship between crimes and neighborhoods through household income. We also be analyzed the types of crimes happening and when they are most likely to occur. This topic is something that is relevant for all of us, and can give us some insight on a topic that affects all of our daily lives.
 Our hypothesis was  neighborhoods with lower median home income see  statistically significant higher crime rates.
 The data we obtained included over 26,000 data points that include, time and date of crime, specific charge , street Address, neighborhood.
 
-These are our findings:
+## Findings:
 1. The most common type of crime is Larceny From Vehicle, the least common is Homicide.
 2. The neighborhood with the highest median income was Paces (third lowest per-capita crime rate), the neighborhood with the highest crime per-capita was Westend.
 3. The lowest crime rate per-capita was Georgia Tech, the next lowest was Knight Park / Howel Station.
